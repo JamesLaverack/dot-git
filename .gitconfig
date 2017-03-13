@@ -1,0 +1,9 @@
+[user]
+	email = james@jameslaverack.com
+	name = James Laverack
+[push]
+	default = simple
+[color "status"]
+       added = green
+       changed = yellow
+       untracked = red
