@@ -9,3 +9,5 @@
        untracked = red
 [core]
 	excludesfile = ~/.global_gitignore
+[rerere]
+	enabled = true
