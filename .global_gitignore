@@ -7,3 +7,6 @@
 
 # Ticket
 .ticket
+
+# JIRA command line API https://github.com/Netflix-Skunkworks/go-jira
+.jira.d
