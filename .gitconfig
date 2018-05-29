@@ -4,9 +4,9 @@
 [push]
 	default = simple
 [color "status"]
-       added = green
-       changed = yellow
-       untracked = red
+	added = green
+	changed = yellow
+	untracked = red
 [core]
 	excludesfile = ~/.global_gitignore
 [rerere]
